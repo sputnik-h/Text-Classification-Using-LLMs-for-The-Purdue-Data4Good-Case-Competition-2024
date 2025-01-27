@@ -48,7 +48,6 @@ This result underscores the potential of LLMs in addressing complex, real-world 
 
 ## Files Included
 1. **Ensembled-Few-Shot-Model-202411021359.ipynb:** Notebook detailing ensembled few-shot learning and classification.
-2. **EDA.ipynb:** Notebook containing exploratory data analysis.
-3. **Modeling.ipynb:** Notebook detailing model development, evaluation, and improvements.
+2. **Prompt-Engineering-Model.ipynb:** Notebook detailing prompt engineering approach.
 
 ---
